@@ -15,7 +15,7 @@
 
 ### ℜ𝔢𝔠𝔢𝔫𝔱 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔪𝔢𝔫𝔱𝔰
 
-* **Core:** Backend architecture (Go / Hexagonal), NLP research.
+* **Core:** Backend architecture (Go / Java), Big Data research.
 * **Current:** Scaleable ERP/CRM solutions and academic projects.
 
 ---
