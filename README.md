@@ -7,8 +7,8 @@
 ### 𝔄𝔠𝔱𝔦𝔳𝔦𝔱𝔶 𝔖𝔱𝔞𝔱𝔦𝔰𝔱𝔦𝔠𝔰
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gotham&bg_color=000000&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=gotham&background=000000&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenizErenArici&show_icons=true&theme=gotham&bg_color=000000&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DenizErenArici&theme=gotham&background=000000&hide_border=true" />
 </p>
 
 ---
