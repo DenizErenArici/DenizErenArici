@@ -29,8 +29,8 @@
 
 ### ℜ𝔢𝔠𝔢𝔫𝔱 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔪𝔢𝔫𝔱𝔰
 
-* **Core Architecture:** Working with Go, TypeScript, and Hexagonal Architecture.
-* **AI Research:** Developing NLP and Computer Vision modules.
+* **Core Architecture:** Working with Go, TypeScript.
+* **Research:** Developing NLP and Computer Vision modules, mostly on Data streaming.
 * **Projects:** Scaling hybrid ERP/CRM platforms and e-Arzuhal project.
 
 ---
