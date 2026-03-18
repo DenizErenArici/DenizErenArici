@@ -1,11 +1,11 @@
 # 𝖉𝖊𝖓𝖎𝖟
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fraktur&color=808080&center=true&vCenter=true&width=500&lines=Deniz+Eren+Arıcı;Full+Stack+Developer;AI+%26+NLP+Researcher;Labor+omnia+vincit" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fraktur&color=808080&center=true&vCenter=true&width=500&lines=Deniz+Eren+Arıcı;Backend+Developer;ML+%26+Big+Data+Researcher;Labor+omnia+vincit" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,py,cpp,angular,vue,react,nodejs,express,postgres,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,py,cpp,react,nodejs,express,postgres,docker,git&theme=dark" />
 </p>
 
 ---
