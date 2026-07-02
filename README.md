@@ -19,7 +19,7 @@
 <h3 align="center">𝔗𝔥𝔢 𝔄𝔯𝔰𝔢𝔫𝔞𝔩</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,py,react,nodejs,express,postgres,mongodb,docker,git,postman,vue&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,java,py,react,nodejs,express,postgres,mongodb,docker,git,postman,swagger,vue&theme=dark" />
 </p>
 
 <div align="center">
